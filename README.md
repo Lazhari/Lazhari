@@ -45,4 +45,7 @@ My name is Mohammed Lazhari, a Software Engineer who's elbow-deep in Full-Stack 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=prometheus" height="40" alt="Prometheus"  />
 </div>
+<div align="center">
+  <a href="https://app.daily.dev/medlazhari"><img src="./devcard.png" width="280" alt="Lazhari's Dev Card"/></a>
+</div>
 
