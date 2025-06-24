@@ -4,11 +4,8 @@ I’m a Software Engineer from Morocco with deep expertise in the Go and JavaScr
 
 - 🤝 Open to collaborating on open-source and SaaS projects
 - 🧠 Ask me about Go, AWS, infrastructure automation (Terraform, Pulumi, Kubernetes), and platform scaling
-- 👯 I’m looking to collaborate on **open-source projects and innovative SaaS solutions.**
-- 🤔 I’m looking for help with **scaling SaaS products efficiently.**
-- 💬 Ask me about Go, taming full-stack chaos, or how to automate your life (or at least your infrastructure) with Terraform, Pulumi, and Kubernetes.
 - 📫 Reach me via: **[LinkedIn](https://dub.sh/lazhari-linkedin), [Twitter](https://dub.sh/lazhari-twitter), [molazhari.dev](https://molazhari.dev/), or [book a meeting](https://dub.sh/quick-chat-cal).**
-- ☕ Fun fact: Debugging is better with good coffee
+- ☕️ Fun fact: Debugging is better with good coffee
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="Go"  />
