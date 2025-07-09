@@ -1,6 +1,6 @@
 ## 👨‍💻 Mohammed Lazhari
 
-I’m a Software Engineer from Morocco with deep expertise in the Go and JavaScript ecosystems, AWS cloud architecture, and modern DevSecOps. I work across Full-Stack Development, Platform Engineering, and SRE—with a strong interest in Blockchain.
+I’m a Software Engineer from Morocco with deep expertise in the Go and JavaScript ecosystems, AWS cloud architecture, and DevSecOps. I work across Full-Stack Development, Platform Engineering, and SRE—with a strong interest in Blockchain.
 
 - 🤝 Open to collaborating on open-source and SaaS projects
 - 🧠 Ask me about Go, AWS, infrastructure automation (Terraform, Pulumi, Kubernetes), and platform scaling
