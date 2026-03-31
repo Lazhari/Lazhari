@@ -2,10 +2,7 @@
 
 Software Engineer · Go & TypeScript · Platform Engineering · SRE · AWS
 
-> I build and operate distributed systems at scale, from Go microservices
-> and developer platform tooling to cloud-native infrastructure serving
-> production workloads. Strong background in DevSecOps, multi-cloud
-> architecture, and building for long-term operability.
+> I build and operate distributed systems, from Go microservices and platform tooling to cloud-native infrastructure built for long-term operability.
 
 ### Focus areas
 `Go` `TypeScript` · `AWS` `Kubernetes` `Terraform` `Pulumi` · `Platform Engineering` `SRE` `DevSecOps` `Observability`
